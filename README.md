@@ -11,3 +11,5 @@ npm start
 ```
 
 Then open http://localhost:3000 to see `polyreact` .
+
+![create-react-app-root](https://c1.staticflickr.com/5/4509/37268153700_b95567ae0f_h.jpg)
