@@ -5,12 +5,12 @@
 ```bash
 # Current path : ~/.
 npm i -g create-react-app
-create-react-app polyreact
-cd polyreact/
+create-react-app create-react-app
+cd create-react-app/
 npm start
 ```
 
-Then open http://localhost:3000 to see `polyreact` .
+Then open http://localhost:3000 to see `create-react-app` .
 
 > Demo : [koheishingaiHQ.github.io/create-react-app](https://koheishingaihq.github.io/create-react-app)
 
