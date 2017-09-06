@@ -1,7 +1,7 @@
 # 2. Deploy to GitHub
 ## Preparation
 ```bash
-# Current path : ~/create-react-project
+# Current path : ~/publish-react-project
 npm i gh-pages --save-dev
 ```
 
@@ -18,6 +18,6 @@ npm i gh-pages --save-dev
 
 ## Deploy
 ```diff
-# Current path : ~/create-react-project
+# Current path : ~/publish-react-project
 npm run deploy
 ```

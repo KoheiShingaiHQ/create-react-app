@@ -1,14 +1,14 @@
 # 2. GitHub へのデプロイ
 ## 事前準備
 ```bash
-# カレントディレクトリ : ~/create-react-project
+# カレントディレクトリ : ~/publish-react-project
 npm i gh-pages --save-dev
 ```
 
 ```diff
 # ファイルパス : ~/package.json
   {
-    "name": "create-react-app",
+    "name": "publish-react-project",
     "version": "0.1.0",
 +   "homepage": "https://[username].github.io/[your-repository-name]",
 
@@ -18,6 +18,6 @@ npm i gh-pages --save-dev
 
 ## デプロイ
 ```diff
-# カレントディレクトリ : ~/create-react-project
+# カレントディレクトリ : ~/publish-react-project
 npm run deploy
 ```
