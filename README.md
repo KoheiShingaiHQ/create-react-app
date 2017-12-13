@@ -1,4 +1,4 @@
-# Getting started with Create React App
+# Using Create React App
 > Official : [create-react-app](https://github.com/facebookincubator/create-react-app)  
 
 ## Quick Overview
